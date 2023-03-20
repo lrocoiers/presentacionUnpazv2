@@ -20,4 +20,5 @@ Soy estudiante de [UNPAZ](www.unpaz.edu.ar), estoy en la carrera de LGTI  [Licen
 -   Diseño gráfico con Photoshop, Ilustrator y Anime
 -   Creador de contenido múltimedia en video e imagen 
 
+## Creado el dia 20 de Marzo
 
