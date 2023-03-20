@@ -1,0 +1,23 @@
+{
+  "name": "cls",
+  "version": "1.0.0",
+  "description": "***Información personal:***\r ***Edad: 27 años.***\r ***Sin Hijos.***\r ***Soltero***",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lrocoiers/presentacionUnpazv2.git"
+  },
+  "author": "Lrocoiers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lrocoiers/presentacionUnpazv2/issues"
+  },
+  "homepage": "https://github.com/lrocoiers/presentacionUnpazv2#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
